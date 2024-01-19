@@ -9,10 +9,6 @@ client_scripts {
     'taghud.lua'
 }
 
-exports {
-    "setPlayerHeadTagGui",
-    "setGangHeadTagGui",
-}
 
 server_script "server.lua"
 
